@@ -1,0 +1,131 @@
+#title {
+    font-family: 'Black Ops One', cursive;
+    color: green;
+    font-weight:  bolder;
+}
+#jumbotron{
+    color: white;
+    background-color: gray;
+    margin: 0px auto;
+}
+
+#header2{
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    padding: 20px;
+
+}
+
+#header{
+    color:white;
+    padding: 20px ;
+}
+
+a{
+    float: right;
+}
+#sample2{
+    color: green;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+}
+
+#sample{
+    background-color: white;
+    text-align: center;
+
+}
+
+
+form {
+    font-weight: bolder;
+    padding: 30px;
+}
+
+#header {
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+li {
+    padding: 5px;
+    margin: 5px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+/*CSS for the line chart*/
+.line-chart {
+    border: 1px solid lightgray;
+}
+#signupcontainer{
+
+    padding: 2%;
+    padding-left: 20%;
+    padding-right: 20%
+}
+
+#register{
+    font-family: 'Bungee Inline', cursive;
+    padding: 2.5%;
+    text-align: center;
+    border-bottom: 2px solid green;
+
+
+}
+
+#signup{
+
+    background-image: url('../images/congruent_pentagon.png');
+    text-align: center;
+
+}
+
+#signupinfo{
+    padding: 0.5%;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+#signincontainer{
+
+    padding: 2%;
+    padding-left: 20%;
+    padding-right: 20%
+}
+
+#login{
+    font-family: 'Bungee Inline', cursive;
+    padding: 2.5%;
+    text-align: center;
+    border-bottom: 2px solid green;
+
+
+}
+
+#signin{
+
+    background-image: url('../images/congruent_pentagon.png');
+    text-align: center;
+
+}
+
+#signininfo{
+    padding: 0.5%;
+    font-family: 'Share Tech Mono', monospace;
+}
